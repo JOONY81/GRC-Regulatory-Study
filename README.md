@@ -1,6 +1,9 @@
 # GRC-Regulatory-Study
+
 ├── README.md
+
 ├── FFIEC/
+
 │   ├── FFIEC_IT_Examination_Handbook_Summary.md
 │   ├── FFIEC_Cyber_Assessment_Tool_Analysis.md
 │   └── FFIEC_vs_NIST_Comparison_Table.md
