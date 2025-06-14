@@ -1,7 +1,5 @@
 # GRC-Regulatory-Study
-
 ├── README.md
-
 ├── FFIEC/
 
 │   ├── FFIEC_IT_Examination_Handbook_Summary.md
